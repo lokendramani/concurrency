@@ -39,8 +39,7 @@ public class CountDownLatch {
 
     /**
      * Returns the current count.
-     */
-    public int getCount() {
+     */    public int getCount() {
        return count;
     }
 }
